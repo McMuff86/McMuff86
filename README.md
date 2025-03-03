@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @McMuff86
 - 👀 I’m interested in Design / CAD / CNC Machining / 3D Print / Programming / Woodwork / Architecture
-- 🌱 I’m currently learning Python
 - 📫 How to reach me: gt.bmx@hotmail.com
 
 
