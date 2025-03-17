@@ -1,5 +1,3 @@
-Here's the refined version of your GitHub `README.md`:  
-
 ### Welcome to My Digital Workshop – MechX  
 
 I specialize in CAD/CAM, digital manufacturing, and automation, with a strong focus on CNC machining, 3D printing, and parametric design. My expertise lies in developing custom scripts for Rhino & Grasshopper, optimizing production workflows, and integrating AI into manufacturing and design processes.  
