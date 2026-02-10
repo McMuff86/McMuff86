@@ -1,4 +1,4 @@
-# Hey there
+# Where Craftsmanship Meets Code ⚡
 
 **Project Manager & Software Developer** bridging traditional craftsmanship with digital manufacturing and AI.
 
@@ -21,7 +21,7 @@ I work at the intersection of **construction, CAD/CAM, and software development*
 
 ### 🚀 What I'm Building
 
-**IntelliPlan** — A platform for project management automation in the carpentry and construction industry. Turning messy Excel sheets and scattered emails into structured, automated workflows.
+**IntelliPlan** — A SaaS platform for project management automation in the carpentry and construction industry. Turning messy Excel sheets and scattered emails into structured, automated workflows.
 
 **OpenClaw** — My personal AI assistant system with autonomous agents, Gmail integration, and proactive task management.
 
